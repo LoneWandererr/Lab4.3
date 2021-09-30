@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Lab4._3</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\1\Desktop\Ага!\Введение в программирование\Лабы Файлы и сочное\Lab4.3" Link="Lab4.3" />
+  </ItemGroup>
+
+</Project>
